@@ -69,7 +69,12 @@
       $result = mysql_query($sqlString);
    }
    
-	// ··´ÊÍº github à¾ÔèÁâ¤é·â»Ãá¡ÃÁ
+	// ··´ÊÍº github à¾ÔèÁâ¤é·â»Ãá¡
+	Íº github
+	Íº github
+	Íº githubÃÁ
+	Íº github
+
 
 
    ?>
